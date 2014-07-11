@@ -1,0 +1,19 @@
+#map{
+    height: 600px;
+}
+#id_geom{
+    display: none;
+}
+.olPopup{
+    box-shadow: 0 0 10px #666666;
+}
+.olPopupContent{
+    width: auto !important;
+}
+.olPopupCloseBox{
+    top: 15px !important;
+    right: 15px !important;
+}
+svg {
+    margin-left: -15px;
+}
